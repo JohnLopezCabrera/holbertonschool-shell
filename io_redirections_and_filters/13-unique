@@ -1,2 +1,2 @@
 #!/bin/bash
-sort --ignore-case list | uniq -u
+sort --ignore-case list_2 | uniq -u

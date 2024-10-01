@@ -1,23 +1,27 @@
-Bash Shell Script Terminal Emulator
-Overview
+# Bash Shell Script Terminal Emulator
+
+## Overview
+
 This project is a simple Bash shell script that emulates basic terminal functionality. The goal is to provide a basic understanding of how terminal commands can be implemented and executed within a script, mimicking a basic shell environment.
 
-Features
-Supports the following commands:
-ls – List directory contents
-cd – Change the current directory
-pwd – Print the current working directory
-echo – Print text to the terminal
-exit – Exit the emulator
-Error handling for unsupported commands.
-User-friendly output and feedback for basic operations.
-Usage
-Clone the repository or download the script:
+## Features
 
-bash
-Copy code
-git clone <repository-url>
-cd <repository-directory>
+- Supports the following commands:
+  - `ls` – List directory contents
+  - `cd` – Change the current directory
+  - `pwd` – Print the current working directory
+  - `echo` – Print text to the terminal
+  - `exit` – Exit the emulator
+- Error handling for unsupported commands.
+- User-friendly output and feedback for basic operations.
+
+## Usage
+
+1. Clone the repository or download the script:
+
+   ```bash
+   git clone <repository-url>
+   cd <repository-directory>
 Make the script executable:
 
 bash
